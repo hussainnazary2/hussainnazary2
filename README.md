@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hussainnazary2  
+- 👋 Hi, I’m Hussain Nazary 
 - 👀 I’m interested in AI agents, automation, and bringing Persian-language tools to life using open-source technologies.  
 - 🌱 I’m currently learning LangGraph, LangChain, and Python to build intelligent systems that help users interact with English content in Persian/Dari.  
 - 💞️ I’m looking to collaborate on AI tools, lightweight inference pipelines, and educational content focused on Persian-speaking communities.  

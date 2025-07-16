@@ -1,57 +1,74 @@
-# 👋 Hi, I’m Hussain Nazary
+# 👋 Hi, I'm Mohammad Hussain Nazary
 
-🔧 I’m an AI enthusiast building intelligent tools using **open-source LLMs**, automation frameworks, and lightweight inference pipelines. I’m especially interested in **AI agents**, smart assistants, and real-time automation systems that run efficiently — with or without the cloud.
-
----
-
-### 🚀 What I’m Working On
-- Building **AI-powered agents** that read, summarize, and reason over documents
-- Automating **email workflows**, task execution, and writing assistance
-- Exploring **LangGraph**, **LangChain**, and **Python** to create agentic, multi-step workflows
-- Experimenting with **Mistral**, **LLaMA**, and other small/medium models via `llama.cpp`, `Ollama`, and `GGUF`
+🎯 **AI Tools Developer | LangChain & LLM Specialist**  
+Championing accessible, privacy-first, multilingual AI solutions.
 
 ---
 
-### 🧠 Technical Interests
-```yaml
-- AI Assistants:
-    - Multi-modal input (PDF, Word, plain text)
-    - Document + email automation
-    - Context-aware message generation
-- Lightweight Inference:
-    - Local model deployment (CPU/GPU optimized)
-    - RAG: embeddings + fast retrieval
-- UI & UX:
-    - PySide6 for desktop applications
-    - Fast iteration and modular design
-```
+## 🚀 About Me
+
+I'm an independent AI practitioner on a mission to build tools that **solve real-world problems**, especially for **small businesses and communities in underrepresented regions**.
+
+- 🧠 Passionate about **multilingual NLP**, local LLMs, and automation.
+- 🛠 Skilled in **LangChain**, **LangGraph**, **llama.cpp**, **Mistral**, and more.
+- 🔍 Strong independent researcher — I love exploring open-source, low-resource solutions that keep data **on-device and private**.
+
+I focus on making AI **simple and useful for everyone**, whether it's helping translate books into Persian & Pashto, or building secure local assistants for regions with limited internet.
 
 ---
 
-### 🤝 Let’s Collaborate
-I’m open to:
-- Building custom LLM tools and agents
-- Prototyping smart desktop apps
-- Contributing to automation & AI tooling projects
-- Rapid testing and deploying of new open-source models
+## 🏗️ Highlight Projects
+
+### 🖥️ [GGUFLoader](https://github.com/GGUFloader/gguf-loader)  
+> 📦 A cross-platform GUI that lets anyone run local GGUF LLMs (like Mistral, LLaMA) with **drag-and-drop simplicity**.  
+> - Zero-CLI setup, modular plugin system, hardware dashboards.  
+> - Turns any laptop into a secure, multilingual AI workstation.  
+> - Designed for **privacy & low-resource hardware**.  
+> 🌐 **Website:** [ggufloader.github.io](https://ggufloader.github.io)
+
+### 📖 [Multilingual Book Translator](https://github.com/hussainnazary2/book-translator)
+> 🌍 Translates full PDF books into **Persian, Dari, Pashto** using local LLM pipelines.  
+> - Keeps cultural nuance intact, avoids cloud APIs.  
+> - Built with LangChain, LangGraph, GGUF models.
+
+### ✉️ Local Cold Email Automation *(Private)*
+> Generates outreach campaigns and follow-ups **fully offline**, with persona-driven LLM outputs for GDPR-safe marketing.
+
+### 🤖 Offline Multilingual AI Assistant *(Private)*
+> Reads PDFs, summarizes, and answers questions in **English, Persian, Urdu** — using only local models for total privacy.
 
 ---
 
-### 📫 Reach Me
-- [LinkedIn](https://www.linkedin.com/in/hussain-nazary-188b4385)
-- Here on GitHub
+## 🛠 Tech Stack
+
+- **Languages:** Python, Bash
+- **LLMs & NLP:** LangChain, LangGraph, llama.cpp, Mistral, GGUF, OpenAI, Hugging Face
+- **Tools:** PySide6 (Qt), Docker, Git, Jupyter, Stable Diffusion, ComfyUI
+- **Focus Areas:** Document Q&A, Summarization, Translation, Agentic workflows, Plugin architectures
+- **Other:** GDPR-compliant local inference, Prompt engineering
 
 ---
 
-### 🙋‍♂️ About Me
-- **Pronouns**: he/him  
-- **Fun Fact**: I’m building **AI-powered animated avatars** that talk, react, and tell stories — blending art, tech, and personality into one expressive agent.
+## 🌱 What I’m Working On
+
+- Improving local plugin-based agents for document intelligence.
+- Exploring ways to bring **AI-powered insights to small businesses without cloud lock-in**.
 
 ---
 
-> "The future of software is autonomous, fast, and human-centric — and I’m building tools to help shape that."
+## 🌍 Languages
 
-<!---
-hussainnazary2/hussainnazary2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🇬🇧 English (Fluent) | 🇮🇷 Persian (Native) | 🇵🇰 Urdu-Hindi (Fluent) | 🇦🇫 Pashto (Fluent)
+
+---
+
+## 🤝 Let’s Connect
+
+- 📧 **Email:** hussainnazary475@gmail.com  
+- 💻 **GitHub:** [github.com/hussainnazary2](https://github.com/hussainnazary2)  
+- 🌐 **Website:** [hussain-nazary.github.io](https://hussain-nazary.github.io)
+
+---
+
+> 🔍 **Open to remote freelance, part-time, or full-time roles.**  
+> Always excited to collaborate on projects that bring **practical AI tools to life**!

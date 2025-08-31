@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hussain Nazary
 
-🎯 **AI Tools Developer | LangChain & LLM Specialist**  
+🎯 **AI Agent Developer | Software developer  
 Championing accessible, privacy-first, multilingual AI solutions.
 
 ---

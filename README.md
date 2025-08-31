@@ -1,74 +1,71 @@
-# 👋 Hi, I'm Hussain Nazary
+# 👋 Hi, I'm Hussain Nazary  
 
-🎯 **AI Agent Developer | Software developer  
-Championing accessible, privacy-first, multilingual AI solutions.
-
----
-
-## 🚀 About Me
-
-I'm an independent AI practitioner on a mission to build tools that **solve real-world problems**, especially for **small businesses and communities in underrepresented regions**.
-
-- 🧠 Passionate about **multilingual NLP**, local LLMs, and automation.
-- 🛠 Skilled in **LangChain**, **LangGraph**, **llama.cpp**, **Mistral**, and more.
-- 🔍 Strong independent researcher — I love exploring open-source, low-resource solutions that keep data **on-device and private**.
-
-I focus on making AI **simple and useful for everyone**, whether it's helping translate books into Persian & Pashto, or building secure local assistants for regions with limited internet.
+🎯 **App Developer | Full-Stack Engineer | AI Integration Enthusiast**  
+Building **cross-platform apps** with React, Electron, and Node.js — making AI tools practical, private, and easy to use.  
 
 ---
 
-## 🏗️ Highlight Projects
+## 🚀 About Me  
 
-### 🖥️ [GGUFLoader](https://github.com/GGUFloader/gguf-loader)  
-> 📦 A cross-platform GUI that lets anyone run local GGUF LLMs (like Mistral, LLaMA) with **drag-and-drop simplicity**.  
-> - Zero-CLI setup, modular plugin system, hardware dashboards.  
-> - Turns any laptop into a secure, multilingual AI workstation.  
-> - Designed for **privacy & low-resource hardware**.  
-> 🌐 **Website:** [ggufloader.github.io](https://ggufloader.github.io)
+I’m an independent **App Developer** passionate about turning ideas into **real, working applications**. Since early 2025, I’ve been developing **desktop apps** that combine modern web tech with **AI integrations** — always focusing on **privacy, simplicity, and usability**.  
 
-### 📖 [Multilingual Book Translator](https://github.com/hussainnazary2/book-translator)
-> 🌍 Translates full PDF books into **Persian, Dari, Pashto** using local LLM pipelines.  
-> - Keeps cultural nuance intact, avoids cloud APIs.  
-> - Built with LangChain, LangGraph, GGUF models.
+- 🛠 Skilled in **Python, JavaScript/TypeScript, React, Electron, Node.js**  
+- 🤖 Experienced with **local LLMs (GGUF, Qwen, Mistral)** and **cloud models (Claude, OpenAI)**  
+- 🔍 Strong at rapid prototyping, debugging, and shipping apps that just work  
 
-### ✉️ Local Cold Email Automation *(Private)*
-> Generates outreach campaigns and follow-ups **fully offline**, with persona-driven LLM outputs for GDPR-safe marketing.
-
-### 🤖 Offline Multilingual AI Assistant *(Private)*
-> Reads PDFs, summarizes, and answers questions in **English, Persian, Urdu** — using only local models for total privacy.
+I focus on **practical tools**, whether that means running AI locally for privacy, or building cross-platform apps that help people get things done.  
 
 ---
 
-## 🛠 Tech Stack
+## 🏗️ Highlight Projects  
 
-- **Languages:** Python, Bash
-- **LLMs & NLP:** LangChain, LangGraph, llama.cpp, Mistral, GGUF, OpenAI, Hugging Face
-- **Tools:** PySide6 (Qt), Docker, Git, Jupyter, Stable Diffusion, ComfyUI
-- **Focus Areas:** Document Q&A, Summarization, Translation, Agentic workflows, Plugin architectures
-- **Other:** GDPR-compliant local inference, Prompt engineering
+### 🖥️ [GGUF Loader](https://github.com/GGUFloader/gguf-loader)  
+📦 A cross-platform desktop app (Windows, Linux, macOS) that lets anyone run GGUF-format AI models (Mistral, LLaMA, DeepSeek) with **click-and-run simplicity**.  
+- No setup required, floating assistant available system-wide  
+- Makes local AI accessible to non-technical users  
 
----
+### 🌐 [Local AI Zone](https://github.com/local-ai-zone/local-ai-zone.github.io)  
+A curated static site showcasing AI models optimized for **local execution on personal hardware**, helping users choose models without cloud dependency.  
 
-## 🌱 What I’m Working On
+### 🧰 [LLM-Toolkit](https://github.com/hussainnazary2/LLM-Toolkit) *(WIP)*  
+Toolkit for experimenting with prompts, workflows, and AI agents across **local and cloud models**.  
 
-- Improving local plugin-based agents for document intelligence.
-- Exploring ways to bring **AI-powered insights to small businesses without cloud lock-in**.
-
----
-
-## 🌍 Languages
-
-🇬🇧 English (Fluent) | 🇮🇷 Persian (Native) | 🇵🇰 Urdu-Hindi (Fluent) | 🇦🇫 Pashto (Fluent)
+### 📖 [Book Translator](https://github.com/hussainnazary2/book-translator) *(WIP)*  
+Automates book translation into **Persian, Dari, Pashto** using open-source AI pipelines.  
 
 ---
 
-## 🤝 Let’s Connect
+## 🛠 Tech Stack  
+
+- **Languages:** Python, JavaScript, TypeScript, HTML, CSS  
+- **Frameworks:** React, Electron, Node.js  
+- **AI/ML Tools:** GGUF, llama.cpp, LangChain, LangGraph, Qwen, Claude, OpenAI  
+- **Other:** Git, npm, pnpm, Linux & Windows development, Bash scripting  
+- **Focus Areas:** Cross-platform desktop apps, AI integrations, workflow automation  
+
+---
+
+## 🌱 What I’m Working On  
+
+- Expanding **GGUF Loader** with plugins and a better UX  
+- Building hybrid apps that combine **local AI speed** with **cloud AI reach**  
+- Creating tools that help individuals and small businesses work smarter, without cloud lock-in  
+
+---
+
+## 🌍 Languages  
+
+🇬🇧 English (Fluent) | 🇮🇷 Persian (Native) | 🇵🇰 Urdu-Hindi (Fluent) | 🇦🇫 Pashto (Fluent)  
+
+---
+
+## 🤝 Let’s Connect  
 
 - 📧 **Email:** hussainnazary475@gmail.com  
 - 💻 **GitHub:** [github.com/hussainnazary2](https://github.com/hussainnazary2)  
-- 🌐 **Website:** [hussain-nazary.github.io](https://hussain-nazary.github.io)
+- 🌐 **Website:** [hussain-nazary.github.io](https://hussain-nazary.github.io)  
 
 ---
 
-> 🔍 **Open to remote freelance, part-time, or full-time roles.**  
-> Always excited to collaborate on projects that bring **practical AI tools to life**!
+> 🔍 **Open to App Developer roles (desktop, full-stack, or AI-integrated apps).**  
+> Always excited to collaborate on building **practical, real-world tools**!  
